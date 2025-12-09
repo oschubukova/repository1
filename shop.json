@@ -1,0 +1,82 @@
+[
+    {
+    "id": "1",
+    "title": "Сон в нефритовом павильоне",
+    "vendor_code": "1",
+    "description": "",
+    "price": 400,
+    "img": "https://www.litres.ru/pub/c/cover/72012280.jpg"
+    },
+     {
+    "id": "2",
+    "title": "Мифы Китая",
+    "vendor_code": "2",
+    "description": "",
+    "price": 650,
+    "img": "https://cdn.eksmo.ru/v2/ITD000000001372763/COVER/cover1__w820.jpg"
+    },
+     {
+    "id": "3",
+    "title": "Небожители и чудовища мифического Китая",
+    "vendor_code": "3",
+    "description": "",
+    "price": 500,
+    "img": "https://www.mann-ivanov-ferber.ru/assets/images/covers/43/30643/2.00x-thumb.png"
+    },
+     {
+    "id": "4",
+    "title": "Шесть имён Кота-демона",
+    "vendor_code": "4",
+    "description": "",
+    "price": 350,
+    "img": "https://www.mann-ivanov-ferber.ru/assets/images/covers/22/30722/2.00x-thumb.png"
+    },
+     {
+    "id": "5",
+    "title": "Китайские радиции и обычаи",
+    "vendor_code": "5",
+    "description": "",
+    "price": 700,
+    "img": "https://www.litres.ru/pub/c/cover/48461408.jpg"
+    },
+     {
+    "id": "6",
+    "title": "Китайские притчи",
+    "vendor_code": "6",
+    "description": "",
+    "price": 650,
+    "img": "https://www.litres.ru/pub/c/cover/48461405.jpg"
+    },
+    {
+    "id": "7",
+    "title": "Китайские народные сказки",
+    "vendor_code": "7",
+    "description": "",
+    "price": 550,
+    "img": "https://ndc.book24.ru/resize/220x284/pim/products/images/57/60/0197d968-5dfe-76b8-940e-2cd70b9d5760.jpg"
+    },
+    {
+    "id": "8",
+    "title": "Китайские идиомы",
+    "vendor_code": "8",
+    "description": "",
+    "price": 250,
+    "img": "https://cdn.litres.ru/pub/c/cover_h400/48461359.jpg"
+    },
+    {
+    "id": "9",
+    "title": "Большая книга мифов Азии",
+    "vendor_code": "9",
+    "description": "",
+    "price": 990,
+    "img": "https://cdn.litres.ru/pub/c/cover_415/72341203.jpg"
+    },
+    {
+    "id": "10",
+    "title": "Притчи Чжцан-Цзы",
+    "vendor_code": "10",
+    "description": "",
+    "price": 400,
+    "img": "https://www.litres.ru/pub/c/cover/48461418.jpg"
+    }
+]
